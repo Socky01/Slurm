@@ -1,7 +1,7 @@
 # Guide to Install and Run Slurm
 ------------------------
 - [x] Install Slurm
-- [x] Running Nwchem Using Slurm
+- [x] Running Nwchem 7.0.2 Using Slurm
 - [x] Running xtb Using Slurm
 - [ ] Running DFTB+ Using Slurm
 
